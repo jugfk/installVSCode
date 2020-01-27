@@ -28,3 +28,7 @@ $ code-oss
 <li>Commit: aeaef41d51201e555735f5e8d2f38a9d0ddb9026</li>
 <li>Date: 2019-02-20T06:32:49.577Z</li>
 </ul>
+
+# 출처:
+
+https://github.com/JetsonHacksNano/installVSCode
