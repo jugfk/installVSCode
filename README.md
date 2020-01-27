@@ -21,12 +21,12 @@ $ code-oss
 
 <h3></h3>
 
-<ul><li>Initial Release September, 2019</li>
-<li>Tested on Jetson Nano</li>
+<ul><li>최초 릴리스 2019 년 9 월</li>
+<li>젯슨나노에서 테스트했음</li>
 <li>L4T 32.2.1 (JetPack 4.2.2)</li>
-<li>Code-OSS Version: 1.32.0 (user setup)</li>
-<li>Commit: aeaef41d51201e555735f5e8d2f38a9d0ddb9026</li>
-<li>Date: 2019-02-20T06:32:49.577Z</li>
+<li>Code-OSS 버전 : 1.32.0 (사용자 설정)</li>
+<li>커밋 : aeaef41d51201e555735f5e8d2f38a9d0ddb9026</li>
+<li>날짜 : 2019-02-20T06 : 32 : 49.577Z</li>
 </ul>
 
 # 출처:
