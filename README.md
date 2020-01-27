@@ -5,22 +5,21 @@ Visual Studio Code의 커뮤니티 빌드를 설치하기위한 셸 스크립트
 
 https://code.headmelted.com/
 
-The primary focus of code.headmelted.com is to provide open-source edition of Visual Studio Code for less common architectures.
-The builds are automated builds of the open-source edition of Microsoft's Visual Studio Code. The releases are not provided by Microsoft, but rather are an independent community effort. These builds are not affiliated with Microsoft, nor are they associated with JetsonHacks.
+code.headmelted.com의 주요 초점은 덜 일반적인 아키텍처를위한 Visual Studio Code의 오픈 소스 버전을 제공하는 것입니다. 이 빌드는 Microsoft Visual Studio Code의 오픈 소스 버전의 자동화 된 빌드입니다. 이 릴리스는 Microsoft에서 제공하는 것이 아니라 독립적 인 커뮤니티 노력입니다. 이러한 빌드는 Microsoft와 관련이 없으며 Jetstonworld와 관련이 없습니다.
 
-To install Visual Studio Code on the Jetson:
+Jetson Nano에 Visual Studio Code를 설치하려면:
 
 ```
 $ ./installVSCode.sh
 ```
 
-This will add the repository keys for the installer, and then install Visual Studio Code. To run Visual Studio Code after installation:
+설치 관리자의 리포지토리 키가 추가되고 Visual Studio Code가 설치됩니다. 설치 후 Visual Studio Code를 실행하려면:
 
 ```
 $ code-oss
 ```
 
-<h3>Notes</h3>
+<h3></h3>
 
 <ul><li>Initial Release September, 2019</li>
 <li>Tested on Jetson Nano</li>
