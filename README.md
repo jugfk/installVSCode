@@ -10,7 +10,7 @@ code.headmelted.com의 주요 초점은 덜 일반적인 아키텍처를위한 V
 Jetson Nano에 Visual Studio Code를 설치하려면:
 
 ```
-$ sh ./installVSCode.sh
+$ sh installVSCode.sh
 (혹은)
 $ ./installVSCode.sh
 ```
