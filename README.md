@@ -30,6 +30,7 @@ $ code-oss
 <li>날짜 : 2019-02-20T06 : 32 : 49.577Z</li>
 </ul>
 
-# 출처:
+## 출처:
 
+* https://www.jetsonhacks.com/2019/10/01/jetson-nano-visual-studio-code-python/
 * https://github.com/JetsonHacksNano/installVSCode
