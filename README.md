@@ -1,7 +1,6 @@
 # installVSCode (Korean Version)
-젯슨나노에서 사용할수있는 VSCode 입니다.
-
-Visual Studio Code의 커뮤니티 빌드를 설치하기위한 셸 스크립트입니다.
+* 젯슨나노에서 사용할수있는 VSCode 입니다.
+* Visual Studio Code의 커뮤니티 빌드를 설치하기위한 셸 스크립트입니다.
 
 https://code.headmelted.com/
 
